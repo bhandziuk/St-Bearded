@@ -1,0 +1,6 @@
+J:\Brad's Documents\Visual Studio 2010\Projects\ResizePictures\ResizePictures\bin\Debug\ResizePictures.exe.config
+J:\Brad's Documents\Visual Studio 2010\Projects\ResizePictures\ResizePictures\bin\Debug\ResizePictures.exe
+J:\Brad's Documents\Visual Studio 2010\Projects\ResizePictures\ResizePictures\bin\Debug\ResizePictures.pdb
+J:\Brad's Documents\Visual Studio 2010\Projects\ResizePictures\ResizePictures\obj\Debug\ResizePictures.csprojResolveAssemblyReference.cache
+J:\Brad's Documents\Visual Studio 2010\Projects\ResizePictures\ResizePictures\obj\Debug\ResizePictures.exe
+J:\Brad's Documents\Visual Studio 2010\Projects\ResizePictures\ResizePictures\obj\Debug\ResizePictures.pdb
